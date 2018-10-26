@@ -1,7 +1,7 @@
 {
-  "name": "back-rib-",
+  "name": "back-rib",
   "version": "0.0.5",
-  "description": "Express / MongoDB application handle user creation and login with Local- and JWT-strategies.",
+  "description": "NodeJS / Express / MongoDB application handle user creation and login with Local- and JWT-strategies.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
